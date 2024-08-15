@@ -12,19 +12,27 @@ body{
     color: white;
 }
 
-/* LINKS */
-.link--cta {
-    font-size: 16px;
-    color: aquamarine;
-}
-
 .header--secondary{
     color: white;
     font-weight: 300;
     font-size: 42px;
 }
 
+/* LINKS */
+.link--cta {
+    font-size: 16px;
+    color: aquamarine;
+}
+
 .header--sub-header{
     font-size: 21px;
+    color: gray;
+}
+
+/* FOOTER */
+
+.footer--copyright {
+    text-align: right;
+    font-size: 16px;
     color: gray;
 }
